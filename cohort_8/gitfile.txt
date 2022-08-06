@@ -8,3 +8,6 @@ This is a test git file for cohourt 8. The expectation is that at the end of thi
 Added and removed 
 showing the head changes
 Adding a line of text from bugfix master
+
+Its a bright and sunny day today
+
